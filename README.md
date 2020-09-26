@@ -16,3 +16,9 @@ Command to Generate the Dart Files
 
 Sample:
 ``flutter pub pub run intl_translation:generate_from_arb --output-dir=lib/l10n --no-use-deferred-loading  lib/l10n/intl_en.arb lib/l10n/intl_messages.arb lib/l10n/intl_ar.arb lib\localizations.dart``
+
+
+
+2-generate code from intl 
+
+``flutter --no-color pub global run intl_utils:generate `` 
