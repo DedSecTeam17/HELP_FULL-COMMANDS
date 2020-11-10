@@ -22,3 +22,8 @@ Sample:
 2-generate code from intl 
 
 ``flutter --no-color pub global run intl_utils:generate `` 
+
+3- Generator 
+``1. flutter packages pub run build_runner build ``
+``2. flutter packages pub run build_runner watch ``
+
